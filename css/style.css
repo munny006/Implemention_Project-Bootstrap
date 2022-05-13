@@ -1,0 +1,75 @@
+body{
+	background-color:white;
+}
+
+img{
+	width: 100%;
+}
+
+a{
+	color: white!important;
+	text-decoration: none!important;
+}
+a .icon{
+	border-radius: 47%;
+	width:33px!important;
+	height: 25px !important;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-top: 2%;
+	font-size: 35px;
+
+}
+a .icon2{
+	border-radius: 47%;
+	width:38px !important;
+	height: 25px !important;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-top: 2%;
+	font-size: 35px;
+
+}
+a .icon3{
+	border-radius: 47%;
+	width: 30px !important;
+	height: 25px !important;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-top: 2%;
+	font-size:39px;
+
+} 
+a{
+	font-size: 18px!important;
+
+}
+
+
+
+
+
+@media(max-width: 768px){
+	img{
+		width: 100%;
+
+		margin-top: 13px;
+	}
+	#testimonial .card{
+		margin-top:18px;
+	}
+	#about .card{
+		margin-top:18px;
+	}
+	#contact .card{
+		margin-top:18px;
+	}
+	#second-part h4{
+		font-size: 23px;
+		padding-top: 0.5rem !important;
+	}
+
+}
